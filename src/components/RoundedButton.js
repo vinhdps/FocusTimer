@@ -33,6 +33,5 @@ const styles = (size) =>
     text: {
       color: colors.white,
       fontSize: size / 3,
-      alignText: 'center',
     },
   });
